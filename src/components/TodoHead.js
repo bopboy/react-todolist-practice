@@ -14,11 +14,11 @@ const TodoHeadBlock = styled.div`
         color:#343a40;
     }
     .day {
-        margin-top:0;
-        color:#343a40;
+        margin-top:4px;
+        color:#868e96;
         font-size:21px;
     }
-    .task-left {
+    .tasks-left {
         color:#20c997;
         font-size:18px;
         margin-top:40px;
